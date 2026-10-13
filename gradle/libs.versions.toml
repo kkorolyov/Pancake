@@ -11,7 +11,7 @@ jackson = "2.+"
 lwjgl = "3.+"
 imgui = "1.+"
 
-classgraph = "4.+"
+classgraph = "6.+"
 
 spock = "2.+"
 junit = "6.+"
